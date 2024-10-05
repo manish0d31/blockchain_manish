@@ -1,5 +1,5 @@
 
-### ![image](https://github.com/user-attachments/assets/09617fff-58af-4362-a5db-916334452675)
+### ![Screenshot 2024-10-04 212807](https://github.com/user-attachments/assets/ceaec05e-b90d-4a2f-a637-8c1ed24be02a)
 
 
 # Tokenized Real Estate
@@ -21,4 +21,5 @@ The vision of Tokenized Real Estate is to democratize real estate investment by 
 - **Advanced Earnings Calculation**: Enhancements to distribute earnings based on more complex ownership rules (e.g., different token classes, dynamic earnings rates).
 - **Property Management**: Adding features for property management and expense tracking to reflect a more detailed financial model.
 - **Multi-property Support**: Allowing users to invest in multiple properties with diversified earnings.
+
 

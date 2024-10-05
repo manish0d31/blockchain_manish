@@ -1,6 +1,6 @@
-### Deployed smartcontract address: 0x4047b852d4347de134f74075caac7b0e45e8efd75fa33be9d32e1a3a58765173
 
-### Screenshot: ![alt text](image.png)
+### ![Screenshot 2024-10-04 212807](https://github.com/user-attachments/assets/ceaec05e-b90d-4a2f-a637-8c1ed24be02a)
+
 
 # Tokenized Real Estate
 

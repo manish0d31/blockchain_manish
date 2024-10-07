@@ -3,7 +3,7 @@ name = "Examples"
 version = "0.0.0"
 
 [addresses]
-MyModule = "0x1ad4844b35453ca0bb127b31fc3d881d8fd68d1bf47ee51df574b994709f0c63"
+MyModule = "0xdfa4585429f01fe19d6dbeb43ec0f8e8381223172132084cdce0d94f2bf31542"
 
 [dependencies]
 AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework/", rev = "aptos-node-v1.2.0" }
